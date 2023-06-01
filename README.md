@@ -9,7 +9,7 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Run tests](#run-tests-🧪)
+  - [Run tests](#run-tests)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -65,7 +65,7 @@ Clone the repo into your local machine:
 git clone https://github.com/BahirHakimy/TDD-project.git
 ```
 
-## Run Tests 🧪
+## Run Tests
 
 ### Tests
 
