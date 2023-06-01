@@ -9,9 +9,7 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
+  - [Run tests](#run-tests-🧪)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -67,7 +65,9 @@ Clone the repo into your local machine:
 git clone https://github.com/BahirHakimy/TDD-project.git
 ```
 
-### Usage
+## Run Tests 🧪
+
+### Tests
 
 To run the test files execute this command
 
