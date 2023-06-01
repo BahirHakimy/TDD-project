@@ -89,6 +89,10 @@ rspec spec spec/
 
 👤 **Kola Kolade**
 
+- GitHub: [@kkolade](https://github.com/kkolade)
+- Twitter: [@kola_kolade](https://twitter.com/kola_kolade)
+- LinkedIn: [kolakolade](https://www.linkedin.com/in/kolakolade/)
+
 <p align="right"><a href="#readme-top">👆</a></p>
 
 <!-- FUTURE FEATURES -->
@@ -96,6 +100,7 @@ rspec spec spec/
 ## 🔭 Future Features <a name="future-features"></a>
 
 - **More Functions** :eyes:
+
 <p align="right"><a href="#readme-top">👆</a></p>
 
 <!-- Contributing -->
